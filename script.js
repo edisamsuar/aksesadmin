@@ -6,7 +6,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
 
     const users = {
         'Admin': { password: 'admin123', link: 'https://docs.google.com/forms/d/e/1FAIpQLSeJNCQj8UjEZVelI0TSb4r-6np_NE1iDujK9aJ0KaAJJnUUeA/viewform' },
-        'hafizatunnafisah': { password: 'hfzatunn0321', link: 'https://edisamsuar.github.io/aksesadminhfz/' },
+        'hafizatunnafisah': { password: 'hfzatunn0321', link: 'https://edisamsuar.github.io/aksesadminnrl/' },
         'nurulalfalah': { password: 'nrlalfalah3561', link: 'https://edisamsuar.github.io/salam-nrl/' },
         'user4': { password: 'pass4', link: 'https://edisamsuar.github.io/aksesadminhfz/' },
         'user5': { password: 'pass5', link: 'https://link5.com' }
